@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppBar</string>
+    <string name="settings">Settings</string>
+    <string name="showcase">This Application has been Designed By Daniel Booker To show case the USe of AppBar and it\'s Functionalities</string>
+</resources>
